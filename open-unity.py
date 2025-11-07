@@ -31,7 +31,7 @@ def main():
     unity_version = find_version(project_settings_path)
 
     if unity_version is None:
-        exit_with_error(f"Couldn't find Unity version in ProjectSettings file", 2)
+        exit_with_error("Couldn't find Unity version in ProjectSettings file", 2)
 
     unity_editor_path = f"/Applications/Unity/Hub/Editor/{unity_version}/Unity.app/Contents/MacOS/Unity"
 
