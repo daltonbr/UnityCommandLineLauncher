@@ -50,3 +50,11 @@ Find the available Unity editor command line arguments in the [official document
 
 # Customization
 The script is intended to be used in source form so that it can be easily customized, e.g. update the directories that are searched for the Unity project or change the command line arguments passed to Unity by default.
+
+## Add an alias to .zshrc
+
+You can add an `alias` to `unity` - just add this to your `.zshrc`
+
+```zsh
+alias unity="~/bin/open-unity.py
+```
