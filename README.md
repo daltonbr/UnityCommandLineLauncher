@@ -1,10 +1,8 @@
 # Unity Command Line Launcher
 
-A lightweight command-line script designed to speedup opening Unity projects. With a single command, this script launches a Unity project directly from within the project's directory tree, bypassing the Unity Hub for enhanced speed and convenience. It's tailored for developers who prefer the efficiency of a terminal-based approach.
+A lightweight command-line script designed to speed up opening Unity projects. With a single command, this script launches a Unity project directly from within the project's directory tree, bypassing the Unity Hub for enhanced speed and convenience. It's tailored for developers who prefer the efficiency of a terminal-based approach.
 
 The script now also supports opening recent projects from Unity Hub, with a fuzzy finder for quick access.
-
-<img width="1502" alt="image" src="https://user-images.githubusercontent.com/17833862/233826202-82216b5f-5323-424b-82b2-725b63f68c3e.png">
 
 ## Support
 
