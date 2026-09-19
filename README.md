@@ -2,6 +2,10 @@
 
 A command line utility to open Unity projects quickly.
 
+> [!WARNING]
+> Archived this, as Unity has launched a "decent" Unity CLI tool, although early stages as of today.
+> So there is no point in supporting the "old Unity Hub CLI".
+
 Builds on top of the Unity (Hub) CLI and adds convenience features for easier usage and makes commands fully compatible
 with CI/CD pipelines.
 
